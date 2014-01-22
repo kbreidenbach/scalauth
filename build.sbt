@@ -1,4 +1,4 @@
-name := "scauth"
+name := "scalauth"
 
 version := "1.0-SNAPSHOT"
 

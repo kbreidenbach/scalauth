@@ -1,6 +1,6 @@
-package me.breidenbach.scauth.identifier
+package me.breidenbach.scalauth.identifier
 
-import me.breidenbach.scauth.authenticators.AuthenticatorDetail
+import me.breidenbach.scalauth.authenticators.AuthenticatorDetail
 
 /**
  * Date: 1/19/14

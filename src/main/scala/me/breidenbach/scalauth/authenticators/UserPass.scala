@@ -1,4 +1,4 @@
-package me.breidenbach.scauth.authenticators
+package me.breidenbach.scalauth.authenticators
 
 /**
  * Date: 1/19/14

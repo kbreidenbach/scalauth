@@ -1,4 +1,4 @@
-package me.breidenbach.scauth.tokens
+package me.breidenbach.scalauth.tokens
 
 /**
  * Date: 1/19/14

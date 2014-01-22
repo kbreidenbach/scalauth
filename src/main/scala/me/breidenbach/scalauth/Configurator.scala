@@ -1,4 +1,4 @@
-package me.breidenbach.scauth
+package me.breidenbach.scalauth
 
 import com.typesafe.config.{ConfigException, ConfigFactory}
 

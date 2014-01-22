@@ -1,6 +1,6 @@
-package me.breidenbach.scauth.authenticators
+package me.breidenbach.scalauth.authenticators
 
-import me.breidenbach.scauth.Configurator
+import me.breidenbach.scalauth.Configurator
 import com.google.api.client.auth.oauth.{OAuthAuthorizeTemporaryTokenUrl, OAuthGetTemporaryToken, OAuthHmacSigner}
 import com.google.api.client.http.apache.ApacheHttpTransport
 import com.google.api.client.http.HttpResponseException

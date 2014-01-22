@@ -1,6 +1,6 @@
-package me.breidenbach.scauth
+package me.breidenbach.scalauth
 
-import me.breidenbach.scauth.authenticators.Twitter
+import me.breidenbach.scalauth.authenticators.Twitter
 
 /**
  * Date: 1/19/14

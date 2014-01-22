@@ -1,6 +1,6 @@
-package me.breidenbach.scauth
+package me.breidenbach.scalauth
 
-import me.breidenbach.scauth.identifier.ScauthIdentifier
+import me.breidenbach.scalauth.identifier.ScauthIdentifier
 
 /**
  * Date: 1/19/14
