@@ -8,6 +8,10 @@ package me.breidenbach.scauth.authenticators
  */
 class Twitter extends OAuth {
   def authenticatorType: String = "twitter"
+
+  def authenticate(info: Option[LoginInfo]): Either[AuthenticatorDetail, Error] = {
+    Right(new Error)
+  }
 }
 
 class TwitterDetail(username: Option[String], fullName: Option[String], avURL: Option[String]) extends AuthenticatorDetail {
