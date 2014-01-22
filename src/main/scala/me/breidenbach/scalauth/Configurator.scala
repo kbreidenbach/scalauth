@@ -9,9 +9,9 @@ import com.typesafe.config.{ConfigException, ConfigFactory}
  * @author Kevin E. Breidenbach
  */
 object Configurator {
-  val configApp = "scauth"
-  val defaultAuthTokenExpHours = "scauth.authtoken.expirationhours"
-  val defaultResetTokenExpHours = "scauth.resettoken.expirationhours"
+  val configApp = "scalauth"
+  val defaultAuthTokenExpHours = "scalauth.authtoken.expirationhours"
+  val defaultResetTokenExpHours = "scalauth.resettoken.expirationhours"
   val config = ConfigFactory.load(configApp)
 
   def defaultAuthTokenExpirationHours: Int = {
